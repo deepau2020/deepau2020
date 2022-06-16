@@ -5,5 +5,5 @@
 - 💬 Ask me about AWS
 - 📫 How to reach me: darlingpaumen@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I love IT
+- ⚡ Fun fact: I love learning and building community - let's connect!
 -->

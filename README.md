@@ -1,9 +1,9 @@
 - 🔭 I’m currently working on Terraform projects
 - 🌱 I’m currently Mastering Terraform
 - 👯 I’m looking to collaborate on DevOps projects
-- 🤔 I’m looking for help with Tererraform projects
+- 🤔 I’m looking for help with DevOps and Tererraform projects
 - 💬 Ask me about AWS
 - 📫 How to reach me: darlingpaumen@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I love learning and building community - let's connect!
+- ⚡ Fun fact: I enjoy learning and building community - let's connect!
 -->

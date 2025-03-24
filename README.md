@@ -1,7 +1,6 @@
-- 🔭 I’m currently working on Terraform projects
-- 🌱 I’m currently Mastering Terraform
+- 🔭 I’m currently working on refining skills through projects
+- 🌱 I’m currently prepping for CompTia Security+ certification
 - 👯 I’m looking to collaborate on DevOps projects
-- 🤔 I’m looking for help with DevOps and Tererraform projects
 - 💬 Ask me about AWS
 - 📫 How to reach me: darlingpaumen@gmail.com
 - 😄 Pronouns: SHE/HER

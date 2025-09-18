@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on refining skills through projects
+- 🔭 I’m currently working on my Cybersecurity Portfolio/Profile
 - 🌱 I’m currently prepping for CompTia Security+ certification
-- 👯 I’m looking to collaborate on DevOps projects
-- 💬 Ask me about AWS
+- 👯 I’m looking for a Cybersecurity Analyst job
+- 💬 Ask me about Cybersecurity or AWS Cloud Computing
 - 📫 How to reach me: darlingpaumen@gmail.com
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: I enjoy learning and building community - let's connect!

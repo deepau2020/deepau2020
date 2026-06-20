@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on my Cybersecurity Portfolio/Profile
-- 🌱 I’m currently prepping for CompTia Security+ certification
-- 👯 I’m looking for a Cybersecurity Analyst job
+- 🌱 Prepping for CompTia Security+ certification
+- 👯 I’m looking for an AI Ethical & Compliance Job
 - 💬 Ask me about Cybersecurity or AWS Cloud Computing
 - 📫 How to reach me: darlingpaumen@gmail.com
 - 😄 Pronouns: SHE/HER
